@@ -1,3 +1,3 @@
 
-<h1>Welcome bro<h1>
+<h1>Welcome to my GitHub<h1>
 <img src="/banner.jpg" alt="banner">
