@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 <img src="/banner.png" alt="banner">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=goldtryck&label=Profile%20views&color=0e75b6&style=flat" alt="goldtryck" /> </p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;UNAM;MEXICO)](https://git.io/typing-svg)
+
+[![An image of @goldtryck's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/goldtryck)](https://holopin.io/@goldtryck)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;UNAM;Méxican)](https://git.io/typing-svg)
   
 ## About me
 Hello, I'm Hector, a 24-year-old student pursuing a degree in computer science at the National Autonomous University of Mexico. I'm passionate about continuously expanding my knowledge in the field of information technology, with a particular focus on data analysis and machine learning.
@@ -43,9 +46,3 @@ Thank you for visiting my profile, and I hope you find something of interest her
 <a href="https://instagram.com/h.m.l.p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.m.l.p_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/lariosh69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lariosh69" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
