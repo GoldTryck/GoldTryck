@@ -1,5 +1,5 @@
 
-<img src="/banner.jpg" alt="banner">
+<img src="/banner.png" alt="banner">
 
 # Welcome to my GitHub profile
 ## About me
