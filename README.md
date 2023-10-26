@@ -2,35 +2,49 @@
 <img src="/banner.png" alt="banner">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=goldtryck&label=Profile%20views&color=0e75b6&style=flat" alt="goldtryck" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;UNAM;Mexican)](https://git.io/typing-svg)
 [![An image of @goldtryck's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/goldtryck)](https://holopin.io/@goldtryck)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;UNAM;Méxican)](https://git.io/typing-svg)
+<details open>
+  <summary><h1>🤖 ABOUT ME</h1></summary>
+  Hello, I'm Hector, a 24-year-old student pursuing a degree in computer science at the National Autonomous University of Mexico. I'm passionate about continuously expanding my knowledge in the field of information technology, with a particular focus on data analysis and machine learning.
   
-## About me
-Hello, I'm Hector, a 24-year-old student pursuing a degree in computer science at the National Autonomous University of Mexico. I'm passionate about continuously expanding my knowledge in the field of information technology, with a particular focus on data analysis and machine learning.
+  ## In my free time 
+  You'll often find me engrossed in coding, exploring new programming languages, and working on personal tech projects. I thrive on the challenges of problem-solving and enjoy diving deep into the world of algorithms and data.
 
-## In my free time 
-You'll often find me engrossed in coding, exploring new programming languages, and working on personal tech projects. I thrive on the challenges of problem-solving and enjoy diving deep into the world of algorithms and data.
+  ## Beyond the world of technology
+  I have a diverse range of interests. I have an immense appreciation for music in all its forms, and I'm constantly on the lookout for new sounds and genres to explore. Music, for me, is a source of inspiration and relaxation.
 
-## Beyond the world of technology
-I have a diverse range of interests. I have an immense appreciation for music in all its forms, and I'm constantly on the lookout for new sounds and genres to explore. Music, for me, is a source of inspiration and relaxation.
+  Another passion of mine is chess. I find the game's complexity and strategic depth both stimulating and satisfying. It's a mental exercise that I enjoy, and I'm always eager to improve my skills on the chessboard.
+</details>
 
-Another passion of mine is chess. I find the game's complexity and strategic depth both stimulating and satisfying. It's a mental exercise that I enjoy, and I'm always eager to improve my skills on the chessboard.
-
-<div align="center">
-    <h2>My Skills</h2>
+<details>
+  <summary><h1>👨🏼‍💻 MY SKILLS</h1></summary>
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,py,c,cpp,laravel,nodejs,js,html,bootstrap,sass,css,vite,php,mysql,linux,bash,docker,vscode,fluter&perline=5">
-</div>
-<div>
+  </div>
+</details>
+<details>
+  <summary><h1>😼 GITHUB STATS</h1></summary>
+  <div>
     <h2 align="center">GitHub Stats</h2>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=goldtryck&show_icons=true&locale=en" alt="goldtryck" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldtryck" alt="goldtryck" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldtryck&show_icons=true&locale=en&layout=compact" alt="goldtryck" /></p>
+<div align="center" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldtryck&show_icons=true&locale=en&layout=compact" alt="goldtryck" />
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldtryck&" alt="goldtryck" /></p>
 </div>
+</details>
+<details>
+  <summary><h1>CHESS</H1></summary>
+</details>
+<details>
+  <summary><h1>SPOTIFY</H1></summary>
+</details>
 
 
 
