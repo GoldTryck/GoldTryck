@@ -48,7 +48,7 @@
   <div align="center">
   <!-- Spotify-github-profile from: https://github.com/kittinan/spotify-github-profile#running-for-development-locally-->
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hy3pfypp6vmoggu7ssd4os2lza&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hy3pfypp6vmoggu7ssd4os2lza&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31hy3pfypp6vmoggu7ssd4os2lza)
   </div>
 </details>
 
