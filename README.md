@@ -42,7 +42,14 @@
 </details>
 <details>
   <summary><h1>CHESS</H1></summary>
+  
+  ### Chess.com
+[![Chess.com](https://images.chesscomfiles.com/uploads/game-gifs/90px/green/neo/0/cc/0/1/bEIhVGJzMFNtQzl6ZnRZSWN1SUJ1QjVRQnVYUGdtNlhlZzQ2aXF6MG13UUtnaDghbkRLQXVjWkpDS1RaZE4yVU54Wkl0QUpBc2RJQ3dDWENmbjBJbmw3MGRuQ0x4dzk3bkUhMkV1SXV3dUFzanM3bGNsTGthY2tyc0FyQXVCUEhxeTY3QnVXT2NmQWY,/cm5icWtibnIvcHBwcHBwcHAvOC84LzgvOC9QUFBQUFBQUC9STkJRS0JOUiB3IEtRa3EgLSAwIDE,.gif)](https://www.chess.com/member/glitchdocta)
+
+### Lichess.org
+[![Lichess](https://lichess1.org/game/export/gif/white/4KQQLiOV.gif?theme=blue3&piece=merida)](https://lichess.org/@/HinCaps)
 </details>
+
 <details>
   <summary><h1>SPOTIFY</H1></summary>
   <div align="center">
@@ -51,7 +58,6 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hy3pfypp6vmoggu7ssd4os2lza&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31hy3pfypp6vmoggu7ssd4os2lza)
   </div>
 </details>
-
 
 
 ## Finally
@@ -66,3 +72,4 @@ Thank you for visiting my profile, and I hope you find something of interest her
 <a href="https://instagram.com/h.m.l.p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.m.l.p_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/lariosh69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lariosh69" height="30" width="40" /></a>
 </p>
+
