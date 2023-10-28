@@ -2,6 +2,8 @@
 <img src="/banner.png" alt="banner">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=goldtryck&label=Profile%20views&color=0e75b6&style=flat" alt="goldtryck" /> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hy3pfypp6vmoggu7ssd4os2lza&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&font=Fira+Code&pause=500&color=5acbe9&center=true&height=80&width=1000&lines=Hello+World!;Info+Tech+Student;UNAM;Mexican)](https://git.io/typing-svg)
 [![An image of @goldtryck's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/goldtryck)](https://holopin.io/@goldtryck)
 
