@@ -38,17 +38,19 @@ Another passion of mine is chess. I find the game's complexity and strategic dep
 <details align="middle">
 <br>
 <summary>😼 GITHUB STATS</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=goldtryck&show_icons=true&locale=en&theme=tokyonight" alt="goldtryck"/>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldtryck&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=nord" alt="goldtryck" /></a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldtryck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="goldtryck"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=goldtryck&theme=tokyonight" alt="goldtryck"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goldtryck&show_icons=true&locale=en&theme=tokyonight" alt="goldtryck"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldtryck&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=nord" alt="goldtryck" /></a>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldtryck&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="goldtryck"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goldtryck&theme=tokyonight" alt="goldtryck"/>
 </details>
 
 ---
 
 <details align="middle">
-  <summary>♔ CHESS</summary>
-  
+<summary>♔ CHESS</summary>
+
   ### Chess.com
 [![Chess.com](https://images.chesscomfiles.com/uploads/game-gifs/90px/green/neo/0/cc/0/1/bEIhVGJzMFNtQzl6ZnRZSWN1SUJ1QjVRQnVYUGdtNlhlZzQ2aXF6MG13UUtnaDghbkRLQXVjWkpDS1RaZE4yVU54Wkl0QUpBc2RJQ3dDWENmbjBJbmw3MGRuQ0x4dzk3bkUhMkV1SXV3dUFzanM3bGNsTGthY2tyc0FyQXVCUEhxeTY3QnVXT2NmQWY,/cm5icWtibnIvcHBwcHBwcHAvOC84LzgvOC9QUFBQUFBQUC9STkJRS0JOUiB3IEtRa3EgLSAwIDE,.gif)](https://www.chess.com/member/glitchdocta)
 
